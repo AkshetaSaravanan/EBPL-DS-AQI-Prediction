@@ -43,9 +43,9 @@ We created:
 
 ## Team Members
 
-- **Lubika Palanisamy** – Data cleaning, model building, notebook development
-- **Deeksha S** – EDA, feature engineering, AQI classification
-- **Aksheta S** – Regression visualization, code formatting, testing
+- **Aksheta S** – Data cleaning, model building, notebook development
+- **Lubika Palanisamy** – EDA, feature engineering, AQI classification
+- **Deeksha S** – Regression visualization, code formatting, testing
 
 ## Notebook Link
 
